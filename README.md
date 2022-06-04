@@ -16,4 +16,5 @@ Fully supports only the Latin keyboard.
 Also works with Cyrillic keyboard but the path to the file will not be displayed correctly if it contains Cyrillic symbol.
 Does not support other languages with special characters (leads to program crash).
 
+
 **#WIP**
